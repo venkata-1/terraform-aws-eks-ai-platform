@@ -1,4 +1,5 @@
 # terraform-aws-eks-ai-platform
+<<<<<<< HEAD
 
 Production-grade Terraform modules for provisioning a scalable, secure AWS EKS platform purpose-built for deploying and serving AI/ML workloads. Designed for teams running LLM inference, model training pipelines, and AI orchestration frameworks at scale.
 
@@ -220,3 +221,6 @@ Pull requests welcome. Please run `terraform fmt` and `terraform validate` befor
 
 **Venkata Innamuri** — Senior DevOps & Cloud Engineer  
 [LinkedIn](https://www.linkedin.com/in/venkata-innamuri/) | [GitHub](https://github.com/venkata-1)
+=======
+terraform-aws-eks-ai-platform
+>>>>>>> 36462aa34acc1470f7175e1c511c7f5d88e354de
